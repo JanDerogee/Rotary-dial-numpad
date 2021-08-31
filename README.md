@@ -9,4 +9,4 @@ This project allows you to make everything yourself without the need of special 
 The rest is software running onthe VIC-20 or C64, which constantly pulls the signals from the joystick port in order to count the pulses and process them. All running under interrupt.
 
 For more information visit:
-http://home.kpn.nl/bderogee1980/projects/rotary_dial_numpad/rotary_dial_numpad.html
+https://janderogee.com/projects/rotary_dial_phone_www/rotary_dial_phone_www.html
